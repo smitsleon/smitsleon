@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 <!--
 **smitsleon/smitsleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
